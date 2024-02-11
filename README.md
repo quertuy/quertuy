@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**quertuy/quertuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 ¡Hola, soy Cristian Usuga!
+🎓 Soy estudiante de Ingeniería en Diseño y Entretenimiento Digital en la Universidad Pontificia Bolivariana de Medellín. Apasionado por la creación de videojuegos, la programación y el diseño de aplicaciones tanto para dispositivos móviles como para PC.
 
-Here are some ideas to get you started:
+🚀 Mis Intereses y Habilidades:
+🤖 Modelado 3D
+💻 Desarrollo de videojuegos utilizando C# y C
+🖥️ Programación en lenguajes como C y C#.
+📱 Diseño UX/UI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Conecta Conmigo:
+🌍 [linkedin]: [https://www.linkedin.com/in/jhonier-m-18a221128/]
+📧 [Correo Electrónico]: [quertuy13@hotmail.com]
+¡Date un paseo por mis repositorios, estare subiendo contenido nuevo, asi que no te lo pierdas 😄 
+
+¡Hablemos de desarrollo y diseño digital! 🚀
