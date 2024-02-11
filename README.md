@@ -13,6 +13,7 @@
 🌐 Conecta Conmigo:
 - 🌍 [linkedin]: [https://www.linkedin.com/in/jhonier-m-18a221128/]
 - 📧 [Correo Electrónico]: [quertuy13@hotmail.com]
+
 ¡Date un paseo por mis repositorios, estare subiendo contenido nuevo, asi que no te lo pierdas 😄 
 
 ¡Hablemos de desarrollo y diseño digital! 🚀
