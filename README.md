@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 ¡Hola, soy Cristian Usuga!
+👋 ¡Hola,!
 🎓 Soy estudiante de Ingeniería en Diseño y Entretenimiento Digital en la Universidad Pontificia Bolivariana de Medellín. Apasionado por la creación de videojuegos, la programación y el diseño de aplicaciones tanto para dispositivos móviles como para PC.
 
 🚀 Mis Intereses y Habilidades:
